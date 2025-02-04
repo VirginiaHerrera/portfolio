@@ -2,14 +2,16 @@
 
 Welcome to my portfolio, where I showcase my skills, projects, and experience in frontend development. 🚀
 
-📬 Contact
-If you're intereted to colaborate with me, or you have queries, don't hesitate to contact to me:
+## 📬 Contact
 
-📩 Email: virisabelherreraherrera@hotmail.com
-🔗 LinkedIn: linkedin.com/in/virginia-herrera-herrera
-💻 GitHub: github.com/VirginiaHerrera
+If you're interested in collaborating with me or have any questions, feel free to reach out:
 
-¡Gracias por visitar mi portfolio! 😊🚀
+📩 **Email:** [virisabelherreraherrera@hotmail.com](mailto:virisabelherreraherrera@hotmail.com)  
+🔗 **LinkedIn:** [linkedin.com/in/virginia-herrera-herrera](https://www.linkedin.com/in/virginia-herrera-herrera)  
+💻 **GitHub:** [github.com/VirginiaHerrera](https://github.com/VirginiaHerrera)  
+
+Thank you for visiting my portfolio! 😊🚀  
+
 
 ## 🖥️ About the Project
 
